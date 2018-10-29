@@ -1,1 +1,1 @@
-Commies Suck
+Just look at those darn commies!
