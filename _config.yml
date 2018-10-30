@@ -25,7 +25,7 @@ email: antoniow7783@aurorak12.org
 description: >- # this means to ignore newlines until "baseurl:"
   A blog for the Amazing Spuder-Man
 baseurl: "/Spider-Man" # the subpath of your site, e.g. /blog
-url: "https://awcpa.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://tonyjw2001.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 # github_username:  jekyll
 
