@@ -20,19 +20,17 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Spider-Man is Amazing
+title: Amazing Spider-Man
 email: antoniow7783@aurorak12.org
-description: - Keeping up with the latest news on the Amazing Spider-Man
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "The Amazing Spider-Man" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+description: >- # this means to ignore newlines until "baseurl:"
+  A blog for the Amazing Spuder-Man
+baseurl: "/techblog" # the subpath of your site, e.g. /blog
+url: "https://awcpa.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+# twitter_username: jekyllrb
+# github_username:  jekyll
 
 # Build settings
-theme: minima
+theme: jekyll-theme-architect
 plugins:
   - jekyll-feed
 
